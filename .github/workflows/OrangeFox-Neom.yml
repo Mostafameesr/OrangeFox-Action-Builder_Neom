@@ -18,7 +18,7 @@ on:
       DEVICE_TREE_BRANCH:
         description: 'OrangeFox Device Tree Branch'
         required: true
-        default: 'main' # تأكد من اسم الفرع في مستودعك
+        default: 'fox_12.1' # تأكد من اسم الفرع في مستودعك
       DEVICE_PATH:
         description: 'Specify your Device Path'
         required: true
