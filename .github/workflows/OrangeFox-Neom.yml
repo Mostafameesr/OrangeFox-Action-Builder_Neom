@@ -15,7 +15,7 @@ on:
       DEVICE_TREE:
         description: 'OrangeFox Device Tree'
         required: true
-        default: 'https://github.com/Mostafameesr/android_device_xiaomi_sweet-TWRP_Neom'
+        default: 'https://github.com/Mostafameesr/Mostafameesr-android_device_xiaomi_sweet-TWRP_Neom'
 
       DEVICE_TREE_BRANCH:
         description: 'OrangeFox Device Tree Branch'
