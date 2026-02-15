@@ -54,7 +54,7 @@ jobs:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       LC_ALL: C
       ALLOW_MISSING_DEPENDENCIES: true
-      FOX_VERSION: "R11.1_Neom"
+      FOX_VERSION: "R12.0"
       USE_CCACHE: "1"
       CCACHE_COMPRESS: "1"
       CCACHE_MAXSIZE: "20G"
